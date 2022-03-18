@@ -14,11 +14,11 @@
 
 ✅ Add the instruction team as collaborators
 
-* [ ] Review the requirements (0.5 hours)
+✅  Review the requirements (0.5 hours)
 
-* [ ] Download the provided data (0.2 hours)
+✅ Download the provided data (0.2 hours)
 
-* [ ] Review the provided data (0.5 hours)
+✅  Review the provided data (0.5 hours)
 
 * [ ] Identify any research that I need to do (0.5 hours)
 
@@ -26,16 +26,21 @@
 
 _These steps can be done in class on Friday_
 
-* [ ] Design initial database schema (1.0 hours)
-  * [ ] Identify the tables that are needed
-  * [ ] For each table...
+✅  Design initial database schema (1.0 hours)
+
+  ✅  Identify the tables that are needed
+  
+  ✅ For each table...
     * Define a primary key
     * Define its columns (name, data type, and nullability)
-  * [ ] Identify the relationships between tables
+    
+  ✅  Identify the relationships between tables
+  * [ ] not yet 100% on the relationships needed
     * Define any foreign keys
-  * [ ] Identify any default or unique constraints
+    * 
+  ✅  Identify any default or unique constraints
 
-* [ ] Draw a diagram of the database schema (0.5 hours)
+✅ Draw a diagram of the database schema (0.5 hours)
   * [ ] Share with one or more classmates for feedback
   * [ ] Update database schema as needed
   * [ ] Share updated diagram with one or more classmates
