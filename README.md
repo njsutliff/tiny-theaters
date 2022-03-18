@@ -1,15 +1,18 @@
 
 # Tiny Theaters Assessment
 
-> Nikhil Sutliff
+![badge](https://img.shields.io/badge/Nikhil-Sutliff-brightgreen)
+
+
+![badge](https://img.shields.io/badge/work-in%20progress-blue)
 
 ## Tasks
 
-_TODO_ Add time estimates to each of the top-level tasks
+✅Create a new GitHub repo for this assessment (Expected: 0.5 hours Actual: 0.2 hours)
 
-* [ ] Create a new GitHub repo for this assessment (0.5 hours)
-  * [ ] Update the README with the contents from this file
-  * [ ] Add the instruction team as collaborators
+✅ Update the README with the contents from this file
+
+✅ Add the instruction team as collaborators
 
 * [ ] Review the requirements (0.5 hours)
 
