@@ -1,6 +1,8 @@
 
 # Tiny Theaters Assessment
 
+> Nikhil Sutliff
+
 ## Tasks
 
 _TODO_ Add time estimates to each of the top-level tasks
