@@ -63,3 +63,10 @@ where ticket_id = 97 and customer_email = 'cvailhe@ft.com'; -- not optimal but i
 update customer
 set customer_phone = '1-801-EAT-CAKE'
 where customer_first = 'Jammie' and customer_last = 'Swindles';
+
+-- Deleting  all single-ticket reservations at the 10 Pin.
+Delete  from ticket where ticket_id = 20 and 21 and 24 and 36 and 43 and 44 and 54 and 62 and 63;
+
+-- Delete customer  liv egle ( and her tickets)
+Delete from customer where customer_email = 'legleofgermanybh@blinklist.com';
+Delete from ticket where customer_email = 'legleofgermanybh@blinklist.com';
